@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\boleteriawebapi\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|solutionrelative:boleteriawebapi\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\boleteriawebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|solutionrelative:boleteriawebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\boleteriawebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|solutionrelative:boleteriawebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\boleteriawebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|solutionrelative:boleteriawebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\boleteriawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23CD3E4-24CB-4649-9FF6-F3452D2DD4A1}|BoleteriaWebApi\\BoleteriaWebApi.csproj|solutionrelative:boleteriawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9638EF08-6B3B-4597-9A02-457F1F28A95B}|Entidades\\Entidades.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\entidades\\mongodb\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9638EF08-6B3B-4597-9A02-457F1F28A95B}|Entidades\\Entidades.csproj|solutionrelative:entidades\\mongodb\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B8EAF9-B6E8-49F8-B9DD-F24D8C8CA978}|Negocio\\Negocio.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\negocio\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B8EAF9-B6E8-49F8-B9DD-F24D8C8CA978}|Negocio\\Negocio.csproj|solutionrelative:negocio\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C118081-C530-4BB9-AD81-8307034BF944}|AccesosDatos\\AccesosDatos.csproj|c:\\users\\admin\\source\\repos\\solucionboleteria_santiago\\accesosdatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C118081-C530-4BB9-AD81-8307034BF944}|AccesosDatos\\AccesosDatos.csproj|solutionrelative:accesosdatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeguridadController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Controllers\\SeguridadController.cs",
+              "RelativeDocumentMoniker": "BoleteriaWebApi\\Controllers\\SeguridadController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Controllers\\SeguridadController.cs",
+              "RelativeToolTip": "BoleteriaWebApi\\Controllers\\SeguridadController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:45.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BoleteriaWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BoleteriaWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BoleteriaWebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "BoleteriaWebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:35.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "BoleteriaWebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Startup.cs",
+              "RelativeToolTip": "BoleteriaWebApi\\Startup.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BoleteriaWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\BoleteriaWebApi\\Program.cs",
+              "RelativeToolTip": "BoleteriaWebApi\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:21.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\Entidades\\MongoDB\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades\\MongoDB\\Usuario.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\Entidades\\MongoDB\\Usuario.cs",
+              "RelativeToolTip": "Entidades\\MongoDB\\Usuario.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logica.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\Negocio\\Logica.cs",
+              "RelativeDocumentMoniker": "Negocio\\Logica.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\Negocio\\Logica.cs",
+              "RelativeToolTip": "Negocio\\Logica.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:57:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccesoMongoDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\AccesosDatos\\AccesoMongoDB.cs",
+              "RelativeDocumentMoniker": "AccesosDatos\\AccesoMongoDB.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\SolucionBoleteria_Santiago\\AccesosDatos\\AccesoMongoDB.cs",
+              "RelativeToolTip": "AccesosDatos\\AccesoMongoDB.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:12:32.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

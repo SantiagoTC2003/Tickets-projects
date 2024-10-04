@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D219743-EB70-41FF-8AF7-EC772C6B4C1B}|Negocio\\Negocio.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\negocio\\boleteriaventaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D219743-EB70-41FF-8AF7-EC772C6B4C1B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\boleteriaventaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818F32D3-08A5-47B5-B36F-BBD2C845567B}|ApiBoleteriaVenta\\ApiBoleteriaVenta.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\apiboleteriaventa\\controllers\\boleteriaventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818F32D3-08A5-47B5-B36F-BBD2C845567B}|ApiBoleteriaVenta\\ApiBoleteriaVenta.csproj|solutionrelative:apiboleteriaventa\\controllers\\boleteriaventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818F32D3-08A5-47B5-B36F-BBD2C845567B}|ApiBoleteriaVenta\\ApiBoleteriaVenta.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\apiboleteriaventa\\views\\boleteriaventa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818F32D3-08A5-47B5-B36F-BBD2C845567B}|ApiBoleteriaVenta\\ApiBoleteriaVenta.csproj|solutionrelative:apiboleteriaventa\\views\\boleteriaventa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E6155D-196D-4702-91DA-7C248249B30A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\accesodatos\\interfaces\\iaccesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E6155D-196D-4702-91DA-7C248249B30A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\iaccesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E6155D-196D-4702-91DA-7C248249B30A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\accesodatos\\accesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E6155D-196D-4702-91DA-7C248249B30A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E531D2F-73AA-4FAC-81CE-DA81D06A7700}|Entidades\\Entidades.csproj|c:\\users\\admin\\documents\\universidad\\solucionboleteriaventa\\entidades\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E531D2F-73AA-4FAC-81CE-DA81D06A7700}|Entidades\\Entidades.csproj|solutionrelative:entidades\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoleteriaVentaLN.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\Negocio\\BoleteriaVentaLN.cs",
+              "RelativeDocumentMoniker": "Negocio\\BoleteriaVentaLN.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\Negocio\\BoleteriaVentaLN.cs",
+              "RelativeToolTip": "Negocio\\BoleteriaVentaLN.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:03:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoleteriaVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\ApiBoleteriaVenta\\Controllers\\BoleteriaVentaController.cs",
+              "RelativeDocumentMoniker": "ApiBoleteriaVenta\\Controllers\\BoleteriaVentaController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\ApiBoleteriaVenta\\Controllers\\BoleteriaVentaController.cs",
+              "RelativeToolTip": "ApiBoleteriaVenta\\Controllers\\BoleteriaVentaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:53:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\ApiBoleteriaVenta\\Views\\BoleteriaVenta\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiBoleteriaVenta\\Views\\BoleteriaVenta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\ApiBoleteriaVenta\\Views\\BoleteriaVenta\\Index.cshtml",
+              "RelativeToolTip": "ApiBoleteriaVenta\\Views\\BoleteriaVenta\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:53:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccesoSQL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\AccesoDatos\\Interfaces\\IAccesoSQL.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IAccesoSQL.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\AccesoDatos\\Interfaces\\IAccesoSQL.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IAccesoSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:53:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tiquete.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\Entidades\\Tiquete.cs",
+              "RelativeDocumentMoniker": "Entidades\\Tiquete.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\Entidades\\Tiquete.cs",
+              "RelativeToolTip": "Entidades\\Tiquete.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:53:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccesoSQL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\AccesoDatos\\AccesoSQL.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoSQL.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Universidad\\SolucionBoleteriaVenta\\AccesoDatos\\AccesoSQL.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoSQL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:51:11.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

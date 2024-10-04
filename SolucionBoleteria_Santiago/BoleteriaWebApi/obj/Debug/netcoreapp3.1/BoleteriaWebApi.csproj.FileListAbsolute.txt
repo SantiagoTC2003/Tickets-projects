@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.AssemblyInfo.cs
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\BoleteriaWebApi\obj\Debug\netcoreapp3.1\BoleteriaWebApi.MvcApplicationPartsAssemblyInfo.cache

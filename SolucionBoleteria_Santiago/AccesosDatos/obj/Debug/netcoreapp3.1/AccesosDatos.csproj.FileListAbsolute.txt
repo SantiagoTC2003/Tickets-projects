@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\bin\Debug\netcoreapp3.1\AccesosDatos.deps.json
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\bin\Debug\netcoreapp3.1\AccesosDatos.dll
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\bin\Debug\netcoreapp3.1\AccesosDatos.pdb
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.AssemblyInfo.cs
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.csproj.CopyComplete
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.dll
+C:\Users\admin\source\repos\SolucionBoleteria_Santiago\AccesosDatos\obj\Debug\netcoreapp3.1\AccesosDatos.pdb

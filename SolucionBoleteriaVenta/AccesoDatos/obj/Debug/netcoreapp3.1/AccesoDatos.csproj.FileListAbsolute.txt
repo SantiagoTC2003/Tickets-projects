@@ -1,0 +1,13 @@
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.deps.json
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfo.cs
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CopyComplete
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\jgcordero\source\repos\SolucionBoleteriaVenta\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.pdb
